@@ -37,7 +37,7 @@ Dự án đang được xây dựng từ con số 0 bởi một sinh viên – c
 
 ### Giai đoạn 3 – Cộng đồng nhỏ, an toàn
 - Nơi người dùng có thể viết, đọc, chia sẻ tâm sự — không công khai, không phán xét.
-- Tích hợp app mobile (React Native) để ai cũng có thể dễ dàng tiếp cận, ở bất kỳ đâu.
+- Tích hợp app mobile để ai cũng có thể dễ dàng tiếp cận, ở bất kỳ đâu.
 
 ---
 
