@@ -6,7 +6,7 @@
 
 ## 🌿 Giới thiệu
 
-**YNA (You’re Not Alone)** là một nền tảng hỗ trợ sức khỏe tâm thần, được xây dựng bởi một người từng bước đi trong những ngày tối nhất – và muốn làm điều gì đó cho những người cũng như mình.
+**YNA (You’re Not Alone)** là một nền tảng hỗ trợ sức khỏe tâm thần, được xây dựng bởi một người từng bước đi trong những ngày tối nhất.
 
 Không phải để "cứu" ai cả.  
 Không phải một giải pháp kỳ diệu.  
