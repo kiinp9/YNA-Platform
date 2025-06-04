@@ -1,71 +1,91 @@
 # YNA-Platform (You’re Not Alone)
 
-> Một nơi dành cho những ai đang cảm thấy cô đơn, tuyệt vọng — để nhắc nhau rằng: **"Bạn vẫn còn ở đây. Và điều đó rất quan trọng."**
+> *"Một nơi nhỏ – cho những ai từng thấy mình rơi vào bóng tối, được nhắc rằng: bạn vẫn còn ở đây. Và điều đó, thật sự quan trọng."*
 
 ---
 
 ## 🌿 Giới thiệu
 
-**YNA-Platform (You’re Not Alone)** là một nền tảng nhỏ, được bắt đầu bởi một người từng ở bên kia lằn ranh, từng cảm thấy chẳng còn lối ra — và cũng từng ước có ai đó, hay cái gì đó, có thể lắng nghe, chạm vào mình, đúng lúc.
+**YNA (You’re Not Alone)** là một nền tảng hỗ trợ sức khỏe tâm thần, được xây dựng bởi một người từng bước đi trong những ngày tối nhất – và muốn làm điều gì đó cho những người cũng như mình.
 
-Nền tảng này không cố cứu rỗi ai cả. Nó chỉ muốn làm một điều:  
-**ở bên bạn một chút**, vào những lúc bạn nghĩ chẳng còn ai bên mình.
-
----
-
-## 🌱 Mục tiêu ban đầu
-
-- Tạo một **chatbot AI** để trò chuyện cùng bạn – không đánh giá, không phán xét.
-- Lắng nghe và **phân tích tâm trạng**, phát hiện dấu hiệu nguy hiểm như ý định tự làm hại, để gửi **cảnh báo sớm cho chuyên gia**.
-- **Kết nối người dùng với bác sĩ tâm lý**, khi bạn thực sự cần một ai đó có thể hỗ trợ chuyên sâu.
-- Xây dựng một nơi yên bình để **chia sẻ và chữa lành**, dù chỉ bằng vài dòng viết ra.
+Không phải để "cứu" ai cả.  
+Không phải một giải pháp kỳ diệu.  
+Chỉ là một lời thì thầm nhẹ nhàng:  
+> “Bạn không cô đơn.”
 
 ---
 
-## ⏳ Hành trình sắp tới
+## 💡 Mục tiêu của dự án
 
-Dự án đang được xây dựng từ con số 0 bởi một sinh viên – cũng là một người bệnh – nên mọi thứ sẽ tiến chậm, nhưng sẽ thật. Dưới đây là kế hoạch phát triển từng bước:
-
-### Giai đoạn 1 – Đặt nền móng
-- Triển khai bản web đầu tiên (client-server).
-- Xây dựng chatbot cơ bản, có thể lắng nghe và phản hồi bằng ngôn ngữ nhẹ nhàng.
-- Phân tích sơ bộ nội dung trò chuyện để phát hiện nguy cơ và **gắn cờ báo động nội bộ**.
-
-### Giai đoạn 2 – Kết nối thật sự
-- Hệ thống đặt lịch và trò chuyện trực tuyến với bác sĩ tâm lý (nếu người dùng đồng ý).
-- Mở tính năng đánh giá, phản hồi, để hệ thống học hỏi và làm tốt hơn.
-
-### Giai đoạn 3 – Cộng đồng nhỏ, an toàn
-- Nơi người dùng có thể viết, đọc, chia sẻ tâm sự — không công khai, không phán xét.
-- Tích hợp app mobile để ai cũng có thể dễ dàng tiếp cận, ở bất kỳ đâu.
+- Tạo một **chatbot AI** nhẹ nhàng, không phán xét – đủ để ở bên bạn khi không còn ai khác.
+- **Lắng nghe và phân tích cảm xúc**, phát hiện sớm những tín hiệu nguy hiểm (trầm cảm, ý định tự làm hại, v.v.).
+- **Kết nối với bác sĩ tâm lý** một cách an toàn, tế nhị, nếu bạn sẵn sàng.
+- Xây dựng một không gian riêng tư để **viết ra tâm sự**, hoặc chia sẻ với một cộng đồng nhỏ, đồng cảm.
+- Luôn nhắc bạn rằng:  
+  > **Không sao cả nếu bạn đang mệt mỏi. Ở đây không ai đòi bạn phải ổn.**
 
 ---
 
-## 🌈 Giá trị cốt lõi
+## 🛠 Kiến trúc & công nghệ
 
-- **Bạn không cô đơn** – Dù bạn đang nghĩ gì, cảm thấy gì, thì vẫn có người muốn ở bên bạn, kể cả là một con bot nhỏ.
-- **Không phán xét** – Ở đây, bạn có thể là chính mình, và điều đó đủ rồi.
-- **An toàn & riêng tư** – Mọi dữ liệu đều được bảo vệ. Chúng mình hiểu việc bị tổn thương từ bên ngoài đã đủ mệt rồi.
-- **Không sao cả nếu bạn thấy yếu đuối** – Chúng mình cũng thế.
+YNA không chỉ là ý tưởng cảm xúc, mà được phát triển với định hướng kỹ thuật rõ ràng và khả năng mở rộng lâu dài:
 
----
-
-## 📌 Vì sao lại là "YNA"?
-
-**YNA** viết tắt của **You’re Not Alone** – không phải khẩu hiệu, mà là lời nhắc nhỏ mỗi khi bạn quên mất điều đó.
-
-Nền tảng này là sự kết nối giữa công nghệ và trái tim – để nhắc chúng ta rằng:  
-> “Khi mọi thứ tưởng như sụp đổ, thì chỉ cần còn ở đây thôi… cũng đã là một điều phi thường.”
+- **Backend**: [NestJS (Node.js)](https://nestjs.com/) – cấu trúc module rõ ràng, dễ bảo trì, phù hợp phát triển đơn lẻ.
+- **Frontend**: React (web), sau đó mở rộng thành app mobile với React Native.
+- **LLM / NLP**: tích hợp OpenAI API (hoặc fine-tuned models) để phân tích nội dung và cảm xúc.
+- **Bảo mật & riêng tư**: dữ liệu người dùng được bảo vệ nghiêm ngặt – vì mình hiểu rõ cảm giác tổn thương từ sự mất an toàn.
 
 ---
 
-## 💌 Liên hệ
+## 🗓 Lộ trình phát triển
 
-Nếu bạn là bác sĩ, nhà phát triển, người quan tâm tới sức khỏe tâm thần, hoặc đơn giản là muốn đồng hành cùng tụi mình trên hành trình này — mình rất mong nhận được sự kết nối.
+### ⛳ Giai đoạn 1 – Nền móng đầu tiên (2–3 tháng đầu)
+- Xây dựng hệ thống backend với các module chính: `auth`, `user`, `chat`, `emotion`, `alert`,....
+- Tạo chatbot cơ bản – phản hồi bằng ngôn ngữ đồng cảm.
+- Thiết kế hệ thống lưu trữ tin nhắn và cảm xúc người dùng.
+- Phát triển frontend web giao diện tối giản, dễ dùng.
+
+### ⛳ Giai đoạn 2 – Hơi thở đầu tiên (4–6 tháng tới)
+- Phân tích nội dung trò chuyện để phát hiện nguy cơ – và **gắn cờ báo động nội bộ**.
+- Tích hợp đặt lịch, trò chuyện với bác sĩ tâm lý.
+- Cho phép người dùng ghi lại cảm xúc, viết nhật ký riêng tư.
+- Mở bản alpha cho nhóm nhỏ (bác sĩ, chuyên gia, bệnh nhân thử nghiệm).
+
+###  ⛳ Giai đoạn 3 – Bắt đầu lắng nghe sâu hơn
+- Tạo không gian viết và đọc các tâm sự ẩn danh.
+- Gợi ý các hoạt động chữa lành: thiền, âm nhạc, thư giãn, v.v.
+- Mở rộng sang mobile app để hỗ trợ kịp lúc ở mọi nơi.
+- Kết nối với các nhóm, tổ chức tâm lý học để đồng hành.
+
+---
+
+## ❤️ Tinh thần của YNA
+
+- **Bạn không một mình** – không chỉ là tên gọi, mà là mục tiêu duy nhất của nơi này.
+- **Đồng cảm** – ở đây, bạn có thể gục ngã, im lặng, bật khóc, hoặc chẳng nói gì cả.
+- **Riêng tư & an toàn** – cảm xúc của bạn là thứ đáng được tôn trọng nhất.
+- **Chân thành** – vì người tạo ra nó cũng là một người bệnh, và vẫn đang chữa lành mỗi ngày.
+- **Không sao nếu bạn thấy yếu đuối** -Mình cũng vậy. Và mình vẫn còn ở đây.
+- **Bạn không phải chiến đấu một mình** - đôi khi, chỉ cần có một nơi để đến là đủ.
+---
+
+## 🌈 Vì sao lại là "YNA"?
+
+**You’re Not Alone** – không phải khẩu hiệu,  
+Mà là một lời nhắc nhỏ dành cho bạn,  
+Mỗi khi bạn quên mất mình đáng được yêu thương, dù chỉ là bởi chính mình.
+
+---
+
+## 💌 Kết nối với dự án
+
+Nếu bạn là bác sĩ tâm lý, kỹ sư phần mềm, người đã từng trải qua những cơn bão trong lòng — hoặc chỉ muốn làm điều gì đó thật ấm – mình luôn sẵn sàng lắng nghe:
 
 - 📧 Email: [vietcuong23122k2@gmail.com](mailto:vietcuong23122k2@gmail.com)  
 - 🐙 GitHub: [https://github.com/kiinp9](https://github.com/kiinp9)
 
 ---
 
-> *Cảm ơn bạn – vì vẫn còn ở đây.*
+> *Một người đang đi qua những ngày tối trời, muốn làm điều gì đó cho những người cũng như mình.*  
+>  
+> **Cảm ơn bạn – vì vẫn còn ở đây.**
