@@ -84,6 +84,7 @@ Nếu bạn là bác sĩ tâm lý, kỹ sư phần mềm, người đã từng t
 
 - 📧 Email: [vietcuong23122k2@gmail.com](mailto:vietcuong23122k2@gmail.com)  
 - 🐙 GitHub: [https://github.com/kiinp9](https://github.com/kiinp9)
+- 🌐 Facebook: [Nguyễn Đăng Phong](https://www.facebook.com/nguyen.ang.phong.539341/?locale=vi_VN)
 
 ---
 
