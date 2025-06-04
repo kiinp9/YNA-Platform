@@ -80,7 +80,7 @@ Mà là một lời nhắc nhỏ dành cho bạn:
 
 ## 💌 Kết nối với dự án
 
-Nếu bạn là bác sĩ tâm lý, kỹ sư phần mềm, người đã từng trải qua những cơn bão trong lòng — hoặc chỉ muốn làm điều gì đó thật ấm – mình luôn sẵn sàng lắng nghe:
+Nếu bạn là bác sĩ tâm lý, kỹ sư phần mềm, người đã từng trải qua những cơn bão trong lòng — hoặc chỉ muốn tìm kiếm một người sẵn sàng đứng về phía bạn trong thời khắc mệt mỏi – mình luôn sẵn sàng lắng nghe:
 
 - 📧 Email: [vietcuong23122k2@gmail.com](mailto:vietcuong23122k2@gmail.com)  
 - 🐙 GitHub: [https://github.com/kiinp9](https://github.com/kiinp9)
